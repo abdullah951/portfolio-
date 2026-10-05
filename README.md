@@ -31,11 +31,11 @@ An age-restricted access control system for online streaming websites utilizing 
 **Data Focus:** To boost user engagement, I developed collaborative filtering and matrix factorization algorithms to power a personalized recommendation microservice. The core platform utilizes Next.js, Sanity, and Zustand, with Stripe for payments.
   
 ### Zawar Passenger & Driver (Ride Sharing & Edge AI)
-[Zawar Passenger](https://play.google.com/store/apps/details?id=com.zawar.user&hl=en_US&gl=US) is an online Ride-sharing platform built to travel safely and share ride details with loved ones.  
+Zawar Passenger is an online Ride-sharing platform built to travel safely and share ride details with loved ones.  
 **ML & Data Focus:** I deployed Edge AI (TensorFlow Lite) models directly into the mobile application to conduct real-time, offline-first route optimization computations. I also engineered telemetry data collection pipelines to compile robust spatial and temporal datasets. The UI animates smoothly with a clean, decoupled architecture.
 
 ### The Fit Club (Fitness Center)
-[The Fitness Club] is an online Fitness center website to motivate people to join a healthy routine. Built entirely in React.js with smooth UI animations and strong separation of concerns.
+The Fitness Club is an online Fitness center website to motivate people to join a healthy routine. Built entirely in React.js with smooth UI animations and strong separation of concerns.
   
 <hr>
 
