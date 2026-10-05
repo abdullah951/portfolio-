@@ -66,9 +66,9 @@ An online inventory and reservation application.
 
 # 📬 Contact Info:
 
-- **Email:** ak3955729@gmail.com
+- **Email:** yousafzai_abdullah@outlook.com
 - **WeChat ID:** wxid_ql1o1p10x2z322
-- **LinkedIn:** [Abdullah khan](https://pk.linkedin.com/in/abdullah-yousafzai)
+- **LinkedIn:** [Abdullah khan](https://linkedin.com/in/abdullah-khan777)
 - **Github:** [@abdullah951](https://github.com/abdullah951)
 - **Stackoverflow:** [@abdullah](https://stackoverflow.com/users/6596362/abdullah)
 - **Whatsapp:** +92 314 5243224
