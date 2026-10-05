@@ -1,7 +1,7 @@
 # Abdullah Khan - Machine Learning Researcher & Software Engineer
 
 <div class="entry">
-  <p>Highly motivated <strong>Machine Learning and Software Engineer</strong> with several years of R&D experience in scalable architecture and intelligent systems. I am seeking to pursue a Master's degree in Artificial Intelligence / Computer Science in China. My industry experience bridges the gap between complex software engineering and applied AI, with a strong focus on Computer Vision, NLP, and MLOps.<br><br>
+  <p>I'm highly motivated <strong>Machine Learning and Software Engineer</strong> with several years of R&D experience in scalable architecture and intelligent systems. I am seeking to pursue a Master's degree in Artificial Intelligence / Computer Science in China. My industry experience bridges the gap between complex software engineering and applied AI, with a strong focus on Computer Vision, NLP, and MLOps.<br><br>
   I strive to build systems that are not only robust in production but also push the boundaries of data-driven automation.</p>
 
 <h2 id="skills">Technical Skills & Research Interests</h2>
